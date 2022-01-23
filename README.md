@@ -1,4 +1,4 @@
-# Welcome to Valaxy git Demo
+# Welcome to Myfirst git Demo
 
 
 ## Things needed to create a repo
