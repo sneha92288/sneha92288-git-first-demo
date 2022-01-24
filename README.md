@@ -3,6 +3,6 @@
 
 ## Things needed to create a repo
  -LICENSE
-- .gitignore file
-- Finally Repo name
--All done
+ - .gitignore file
+ - Finally Repo name
+
